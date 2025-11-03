@@ -8,7 +8,7 @@
 ![alt text](image-4.png)
 ### open the folder
 ![alt text](image-12.png)
-## step4 vs code la new file create pananu, file ku name kudukanum
+##  vs code la new file create pananu, file ku name kudukanum
 ### sekect file
 ![alt text](image-5.png)
 ### give file name
@@ -22,11 +22,9 @@ Readmd.md
 ![alt text](image-9.png)
 ### give repositories name and create repositoies
 ![alt text](image-10.png)
-## step6 git command
+##  git command
 ### rigt click 
 ### use git command
-### middle la mail id kedukura mathiri varum for verification
-![alt text](image-8.png)
 ### select git bash 
 ![alt text](image-14.png)
 ### git bash command page
@@ -41,6 +39,9 @@ git add .
 ```sh
 git commit -m "commit"
 ```
+### middle la mail id kedukura mathiri varum for verification
+![alt text](image-8.png)
+
 ```sh
 git branch -M main
 ```
@@ -52,7 +53,7 @@ git remote add origin https://github.com/asbdu160cb22s607181/Documentation.git
 ```sh
 git push -u origin main
 ```
-## step7 Update the repo
+##  Update the repo
 ```sh
 git add .
 ```
@@ -64,3 +65,4 @@ git push -u origin main
 ```
 ## this way to create the github documentation
 # *** Thank you! ***
+                              
