@@ -18,7 +18,7 @@ Readmd.md
 ![alt text](image-6.png)
 ### Write the documentation in the readme file
 ![alt text](image-13.png)
-## step5 repositories create pananum
+## repositories create pananum
 ![alt text](image-9.png)
 ### give repositories name and create repositoies
 ![alt text](image-10.png)
