@@ -1,0 +1,66 @@
+## vs code download pananu
+![alt text](image-1.png)
+![alt text](image-2.png)
+## desktop la new folder create pananu
+![alt text](image-3.png)
+## open vs code
+### click file and select open folder
+![alt text](image-4.png)
+### open the folder
+![alt text](image-12.png)
+## step4 vs code la new file create pananu, file ku name kudukanum
+### sekect file
+![alt text](image-5.png)
+### give file name
+```sh
+Readmd.md
+```
+![alt text](image-6.png)
+### read to create the code in vs code
+![alt text](image-13.png)
+## step5 repositories create pananum
+![alt text](image-9.png)
+### give repositories name and create repositoies
+![alt text](image-10.png)
+## step6 git command
+### rigt click 
+### use git command
+### middle la mail id kedukura mathiri varum for verification
+![alt text](image-8.png)
+### select git bash 
+![alt text](image-14.png)
+### git bash command page
+![alt text](image-15.png)
+### git command
+```sh
+git init
+```
+```sh
+git add .
+```
+```sh
+git commit -m "commit"
+```
+```sh
+git branch -M main
+```
+### github 
+![alt text](image.png)
+```sh
+git remote add origin https://github.com/asbdu160cb22s607181/Documentation.git
+```
+```sh
+git push -u origin main
+```
+## step7 add balance code in github
+```sh
+git add .
+```
+```sh
+git commit -m"firstcommit"
+```
+```sh
+git push -u origin main
+```
+## this way to create the github documentation
+# *** Thank you! ***
