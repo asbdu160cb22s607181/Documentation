@@ -11,12 +11,12 @@
 ##  vs code la new file create pananu, file ku name kudukanum
 ### sekect file
 ![alt text](image-5.png)
-### give file name
+### give file name readme.md
 ```sh
 Readmd.md
 ```
 ![alt text](image-6.png)
-### read to create the code in vs code
+### Write the documentation in the readme file
 ![alt text](image-13.png)
 ## step5 repositories create pananum
 ![alt text](image-9.png)
